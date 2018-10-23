@@ -12,6 +12,7 @@
 - [Marina Dargitz](https://github.com/mdargitz)
 - [Sheetal](https://github.com/sheetalpsl)
 - [Umer Hasan](https://github.com/umerhasan17)
+- [BIbek Luitel](https://github.com/bibekluitel)
 - [Rebecca Hoffenberg](https://github.com/rhoffen)
 - [Jhovahn Gibbs](https://github.com/jhovahn)
 - [Jennifer Williams](https://github.com/Taljjaa)
